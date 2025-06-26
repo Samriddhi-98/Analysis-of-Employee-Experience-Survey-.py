@@ -1,7 +1,7 @@
 # Analysis-of-Employee-Experience-Survey-py
 ### Problem Statement: To Analyze the provided Employee Experience Survey dataset from a fictional nonprofit organization to identify key trends and insights related to employee engagement, job satisfaction, work-life balance, and other factors.
 
-1. Dataset Loading and Preparation: :  Libraries used for the analysis are numpy, pandas, seaborn, matplotlib, scipy . 
+1. Dataset Loading and Preparation: :  Libraries used for the analysis are numpy, pandas, seaborn, matplotlib, scipy.
 
 ![image](https://github.com/user-attachments/assets/d9efc5dc-428e-453f-b4b6-5d4d3efcfcf1)
 
